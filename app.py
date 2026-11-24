@@ -10,8 +10,7 @@ from analyst_agent import run_analyst_query
 load_dotenv()
 
 st.set_page_config(
-    page_title="Ledger & Lens — Data Analyst Workbench",
-    page_icon="📐",
+    page_title="Analyze IT",
     layout="wide",
     initial_sidebar_state="expanded",
 )
